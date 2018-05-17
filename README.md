@@ -1,2 +1,2 @@
-# http://Felipe-Cardoso-UFU.github.io/oguia-html5
+# http://felipecardosoufu.github.io/oguia-html5
 OGUIA!
